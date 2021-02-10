@@ -2,6 +2,7 @@
 Graph Basics and Algorithms
 
 0.1 Graph as AdjacencyMatrix (int[][]).
+
 0.2 Graph as AdjacencyList (ArrayList<ArrayList<Integer>>)
   
 2.1 BFS (queue): Queue<Integer> qu = new LinkedList<Integer>()
